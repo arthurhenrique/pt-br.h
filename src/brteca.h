@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+		
 	#define inicio	 	int main(){
 	#define fim	 	}
 //Variáveis
@@ -48,3 +48,4 @@
 	#define	oux		^^
 //EasterEgg BRs
 	#define HUE		while(1) printf("HUE");
+	#define xablau          while(1) system("start"); system("explorer.exe");
