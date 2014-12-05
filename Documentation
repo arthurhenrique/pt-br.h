@@ -1,0 +1,80 @@
+Documentação para usar a Portugol
+Autor: Lucas Souza Reis - lucasprk95@gmail.com
+
+Declarando variáveis
+inteiro = int
+Exemplo: inteiro numero;
+
+real = float
+Exemplo: real numero;
+
+caractere = char
+Exemplo: caractere letra;
+
+logico = int
+Exemplo: logico flag = verdadeiro; / logico flag = falso;
+
+
+Operadores lógicos e matemáticos
+mod = %
+Exemplo: numero mod 2 == 0;
+
+e = &&
+Exemplo: se ( ( numero == 2 ) e ( numero_dois == 3 ) ) entao ...
+
+ou = ||
+Exemplo: se ( ( numero == 2 ) ou ( numero_dois == 3 ) ) entao ...
+
+
+Entrada e Saída de dados
+escreva = printf
+Exemplo: escreva ( “Saída na tela” );
+
+leia = scanf
+Exemplo: leia ( “%d”, &numero);
+
+
+Estruturas de condição
+se ... entao ... fimse = if
+senao = else
+Exemplo: 	se ( numero == 2  entao	
+  						escreva ( "Verdadeiro" );
+					senao
+							escreva ( "Falso" );
+					fim_se
+		
+escolha = switch
+caso = case
+pare = break
+outrocaso = default
+Exemplo: escolha (num) faca
+						caso 1:
+							escreva ("numero 1");
+						pare;
+						
+						caso 2:
+							escreva ("numero 2");
+						pare;
+						
+						outrocaso:
+							escreva ("Numero diferente de 1 ou 2");
+					fim_escolha
+
+
+Estruturas de repetição
+enquanto ... faca ... fim_enquanto = while
+Exemplo: enquanto (i <= 3) faca
+						escreva ("%d", i);
+						++i;
+					fim_enquanto
+	
+	repita ... ate = do ... while
+	Exemplo: repita
+							escreva ("%d", i);
+							++i;
+						ate (i<=3);
+					
+	para ... faca ... fim_para
+	Exemplo: para (i=0; i<=3; ++i) faca
+							escreva ("%d", i);
+						fim_para
