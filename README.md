@@ -1,6 +1,6 @@
-BRteca
-======
+MaskMyCode
+=========
 
-É uma bíblioteca escrita em ANSI C, com intuito de "Aportuguesar" a escrita de código.
+É uma forma de mascarar a escrita em ANSI C com palavras em pt-br.
 
-licenciado pela GPL, fique a vontade.
+Projeto totalmente experimental. 
