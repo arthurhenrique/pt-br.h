@@ -1,4 +1,4 @@
-#include "brteca.h"
+#include "maskmycode.h"
 
 inicio
 	inteiro num;
