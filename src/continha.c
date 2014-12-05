@@ -1,4 +1,4 @@
-#include  "maskmycode.h"
+#include  "maskare.h"
 
 inicio
 	inteiro x=10,y=8;
