@@ -1,4 +1,4 @@
-#include "maskmycode.h"
+#include "maskare.h"
 
 inicio
 	inteiro num;
