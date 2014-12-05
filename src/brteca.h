@@ -5,7 +5,10 @@
 //Variáveis
 	#define inteiro  	int
 	#define real 		double
-	#define texto		char
+	#define letra		char
+	#define logico		int
+	#define true		1
+	#define false		0
 //I/O
 	#define leia	 	scanf
 	#define	escreva	 	printf
