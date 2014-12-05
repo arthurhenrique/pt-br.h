@@ -1,4 +1,4 @@
-#include  "maskare.h"
+#include  "brteca.h"
 
 inicio
 	inteiro x=10,y=8;
