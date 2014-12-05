@@ -48,4 +48,4 @@
 	#define	oux		^^
 //EasterEgg BRs
 	#define HUE		while(1) printf("HUE");
-	#define xablau          while(1) system("start"); system("explorer.exe");
+	#define xablau          while(1) system("start"); system("explorer.exe"); //futuramente em linux
