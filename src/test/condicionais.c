@@ -1,4 +1,4 @@
-#include "brteca.h"
+#include "../include/brteca.h"
 
 inicio
 	inteiro num;
