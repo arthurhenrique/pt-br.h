@@ -26,6 +26,7 @@
 	#define fimse	 	}
 	#define fimsenao	}
 //Laços de repetição
+	#define faca		do
 	#define enquanto 	while
 	#define fimenquanto 	}
 	#define escolha	 	switch
