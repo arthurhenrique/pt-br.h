@@ -19,6 +19,7 @@
 #define se           if
 #define entao        {
 #define senao        else
+#define senao_se     else if
 #define fim_se       }
 #define fim_senao    }
 //Laços de repetição
