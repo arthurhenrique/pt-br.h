@@ -1,6 +1,3 @@
-#ifndef _BRTECA_H_
-#define _BRTECA_H_
-
 #include <stdio.h>
 
 #define inicio       int main(){
@@ -46,6 +43,4 @@
 #define diferente    !
 #define e            &&
 #define ou           ||
-#define oux          ^^
-
-#endif //_BRTECA_H_
+#define ou_exclusivo ^^
