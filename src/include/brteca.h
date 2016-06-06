@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-#define inicio       int main(int argc, char *argv[]){
+#define inicio       int main(){
 #define fim          }
 //Variáveis
 #define inteiro      int
