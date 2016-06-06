@@ -1,20 +1,19 @@
 #include "../include/brteca.h"
 
 inicio
-	inteiro num;
-	
-	escreva("num:");
-	leia("%d",&num);
-	escreva("num: %d\n",num);
-	
-	se(num maior que 100) entao
-		escreva("Maior que 100\n");
-	fimse
-	senao pode ser que (num menor que 100) entao
-		escreva("Menor que 100\n");
-	fimsenao
-	senao tente
-		escreva("igual a 100\n");
-	fimsenao
-			
+    inteiro numero = 0;
+    
+    escreva("numero:");
+    leia("%d", &numero);
+    escreva("numero: %d\n", numero);
+    
+    se(numero maior 100) entao
+        escreva("Maior que 100\n");
+    fim_se
+    senao (numero menor 100) entao
+        escreva("Menor que 100\n");
+    fim_senao
+    senao
+        escreva("igual a 100\n");
+    fim_senao
 fim
