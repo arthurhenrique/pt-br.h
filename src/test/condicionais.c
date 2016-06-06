@@ -10,7 +10,7 @@ inicio
     se(numero maior 100) entao
         escreva("Maior que 100\n");
     fim_se
-    senao (numero menor 100) entao
+    senao_se (numero menor 100) entao
         escreva("Menor que 100\n");
     fim_senao
     senao
