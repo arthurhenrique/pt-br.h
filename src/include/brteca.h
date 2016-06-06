@@ -1,6 +1,9 @@
+#ifndef _BRTECA_H_
+#define _BRTECA_H_
+
 #include <stdio.h>
-		
-	#define inicio	 	int main(){
+
+    #define inicio	 	int main(){
 	#define fim	 	}
 //Variáveis
 	#define inteiro  	int
@@ -50,5 +53,4 @@
 	#define e		&&
 	#define ou		||
 	#define	oux		^^
-//EasterEgg BRs
-	#define HUE		while(1) printf("HUE");
+#endif //_BRTECA_H_
