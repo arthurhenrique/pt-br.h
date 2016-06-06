@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 #define inicio       int main(){
-#define fim          }
+  
+#define fim }
 //Variáveis
 #define inteiro      int
 #define real         double
